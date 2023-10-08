@@ -8,3 +8,8 @@
 3. **Sequential circuits** (latches, flip-flops, FSMs);
 4. **Digital Building Blocks** (arithmetic circuits, more complex circuits);
 5. **Hardware Description Languages** (SystemVerilog)
+
+
+Handwritten Notes: N. Nil Atabey
+
+Typed Notes: Leonardo Biason
