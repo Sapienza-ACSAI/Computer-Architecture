@@ -1,5 +1,5 @@
 <h1 align="center">Computer Architecture Unit 1</h1>
-<p align="center"><i>Taught by prof. De Sensi in the a.y. 22/23</i></p>
+<p align="center"><i>Taught by Prof. De Sensi in the a.y. 22/23</i></p>
 
 ## Course syllabus
 
