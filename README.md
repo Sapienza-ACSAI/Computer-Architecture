@@ -10,6 +10,6 @@
 5. **Hardware Description Languages** (SystemVerilog)
 
 
-Handwritten Notes: N. Nil Atabey
+Handwritten Notes: B. Nil Atabey
 
 Typed Notes: Leonardo Biason
